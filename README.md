@@ -2,5 +2,5 @@
 A spotify clone in Flutter.
 
 
-![youtubecloneingif](https://user-images.githubusercontent.com/67695638/104809434-3adb3700-5813-11eb-813b-bd6ecc6fe6c8.gif)
+![spotifycloneingif](https://user-images.githubusercontent.com/67695638/104809465-70802000-5813-11eb-91e1-3765bbe9deee.gif)
 
